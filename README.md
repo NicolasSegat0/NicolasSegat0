@@ -1,9 +1,9 @@
 ### Bem vindo, sou Nicolas Navas! 👋
 
-- 🔭 Eu estou cursando Análise e Desenvolvimento de Sistemas. 
+- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba (FACENS). 
 - 🌱 Iniciando no mundo da tecnologia e programação. 
 - 💬 Contato: ninavassegato@gmail.com 
-- 👔 Linkedin: https://www.linkedin.com/feed/
+- 👔 Linkedin: https://www.linkedin.com/in/nicolas-navas-segato-2ba431232/
 
 <div align="center">
   <a href="https://github.com/NicolasSegat0">
